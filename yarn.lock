@@ -1890,6 +1890,11 @@
     "anymatch" "^3.0.0"
     "source-map" "^0.6.0"
 
+"@vercel/speed-insights@^1.0.1":
+  "integrity" "sha512-cm8KTTsDgS1AbWsgIEZuMoyPUjclzeqJihyLp0tnA21B/x9iTE8hu2S5zM+/DBzihuHxWL1dx9pCWk22ctMFWQ=="
+  "resolved" "https://registry.npmjs.org/@vercel/speed-insights/-/speed-insights-1.0.1.tgz"
+  "version" "1.0.1"
+
 "@vue/babel-helper-vue-jsx-merge-props@^1.4.0":
   "integrity" "sha512-JkqXfCkUDp4PIlFdDQ0TdXoIejMtTHP67/pvxlgeY+u5k3LEdKuWZ3LK6xkxo52uDoABIVyRwqVkfLQJhk7VBA=="
   "resolved" "https://registry.npmjs.org/@vue/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-1.4.0.tgz"

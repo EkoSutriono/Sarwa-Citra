@@ -1,5 +1,6 @@
 <template>
   <div>
+    <SpeedInsights/>
     <div class="header">
       <NavBar />
       <NavMenu />
@@ -9,9 +10,13 @@
 </template>
 
 <script>
+import { SpeedInsights } from "@vercel/speed-insights/vue"
 
 export default {
   name: 'IndexPage',
+  components: {
+    SpeedInsights,
+  }
 }
 </script>
 
